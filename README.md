@@ -69,4 +69,7 @@ LinkedIn:
 www.linkedin.com/in/fakhr-ul-islam-171
 
 Email:
-fakhrulislam5249@gmail.com**
+fakhrulislam5249@gmail.com
+## 📊 GitHub Stats
+
+![Fakhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAKHR5249&show_icons=true&theme=github_dark)
