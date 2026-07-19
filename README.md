@@ -1,4 +1,6 @@
-# Fakhr Ul Islam
+# Hi, I'm Fakhr Ul Islam
+
+### Software Engineering Student | AI/ML Intern @ AI Lab 99 | Python Developer
 
 ## About Me
 
