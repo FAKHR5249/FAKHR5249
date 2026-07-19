@@ -1,4 +1,4 @@
-**# Fakhr Ul Islam
+# Fakhr Ul Islam
 
 ## About Me
 
