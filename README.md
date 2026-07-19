@@ -73,3 +73,6 @@ fakhrulislam5249@gmail.com
 ## 📊 GitHub Stats
 
 ![Fakhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FAKHR5249&show_icons=true&theme=github_dark)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAKHR5249&layout=compact&theme=github_dark)
